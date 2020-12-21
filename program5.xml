@@ -1,0 +1,35 @@
+<?xml-stylesheet type="text/css" href="lab5.css" ?>
+<!DOCTYPE html>
+<html>
+<head>
+	<h1><b>STUDENT DESCRIPTION</b></h1>
+</head>
+	<students>
+		<student>
+			<usn>USN : 1BY19CS001</usn>
+			<name>NAME : Sam</name>
+			<college>COLLEGE : BMSIT</college>
+			<branch>BRANCH : Computer Science and Enginerring</branch>
+			<year>Year of joining : 2019</year>
+			<e-mail>E-MAIL : sam@bmsit.in</e-mail>
+		</student>
+		<br/><br/>
+		<student>
+			<usn>USN : 1BY19CS002</usn>
+			<name>NAME : Samhita</name>
+			<college>COLLEGE : BMSIT</college>
+			<branch>BRANCH : Information Science and Enginerring</branch>
+			<year>Year of joining : 2019</year>
+			<e-mail>E-MAIL : samhita@bmsit.in</e-mail>
+		</student>
+		<br/><br/>
+		<student>
+			<usn>USN : 1BY19CS003</usn>
+			<name>NAME : Sarita</name>
+			<college>COLLEGE : BMSIT</college>
+			<branch>BRANCH : Electronics and Communication Enginerring</branch>
+			<year>Year of joining : 2019</year>
+			<e-mail>E-MAIL : sarita@bmsit.in</e-mail>
+		</student>
+	</students>
+</html>
