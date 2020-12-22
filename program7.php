@@ -13,5 +13,10 @@ transform: translate(-50%, -50%);
 }
 body{background-color:black;}
 </style>
-<p> <?php echo date(" h: i : s A");?> </p>
+<p>
+   <?php 
+	date_default_timezone_set('Asia/Kolkata');
+	echo date(" H : i : s A");
+	?> 
+</p>
 </head>
